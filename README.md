@@ -1,5 +1,5 @@
-# ReactifyJS Framework
-The JavaScript Framework based on react.js.
+# ReactifyJS Boilerplate
+The JavaScript Boilerplate based on react.js.
 - Reactjs
 - Redux
 - TailwindCSS
